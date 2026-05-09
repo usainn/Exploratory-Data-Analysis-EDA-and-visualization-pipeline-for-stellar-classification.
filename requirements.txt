@@ -1,7 +1,7 @@
-* pandas: Veri çerçevelerini (star_df) yönetmek ve CSV okumak için.
+pandas: Veri çerçevelerini (star_df) yönetmek ve CSV okumak için.
 
-* numpy: Sayısal diziler (.values) ve matematiksel işlemler için.
+numpy: Sayısal diziler (.values) ve matematiksel işlemler için.
 
-* matplotlib: Temel grafik yapısı, figure, subplot ve suptitle işlemleri için.
+matplotlib: Temel grafik yapısı, figure, subplot ve suptitle işlemleri için.
 
-* seaborn: barplot ve boxplot gibi daha gelişmiş ve şık görselleştirmeler için.
+seaborn: barplot ve boxplot gibi daha gelişmiş ve şık görselleştirmeler için.
