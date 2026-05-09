@@ -53,7 +53,7 @@ Notebook içerisinde, standart files.download() yönteminden daha gelişmiş bir
 * Data Source: Stellar Type Dataset (Astroquery uyumlu yapı)
 
 ## Akademik ve Profesyonel Arka Plan
-İskenderun Teknik Üniversitesi (İSTE) Bilgisayar Mühendisliği son sınıf öğrencisiyim. Gömülü sistemler (Embedded Systems) ve GNC (Guidance, Navigation, and Control) sistemleri üzerine olan uzmanlığımı, astroenformatik disipliniyle birleştirerek veri odaklı astronomi projeleri geliştiriyorum.
+İskenderun Teknik Üniversitesi (İSTE) Bilgisayar Mühendisliği 3.sınıf öğrencisiyim. Gömülü sistemler (Embedded Systems) ve GNC (Guidance, Navigation, and Control) sistemleri üzerine olan uzmanlığımı, astroenformatik disipliniyle birleştirerek veri odaklı astronomi projeleri geliştiriyorum.
 
 *  Hedef: Gözlemevlerinin (TUG/DAG) veri işleme birimlerinde, gerçek zamanlı veri analizi ve gömülü yazılım mimarileri üzerinde katkı sağlamak.
 
