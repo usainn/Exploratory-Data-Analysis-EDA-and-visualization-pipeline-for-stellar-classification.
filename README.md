@@ -8,11 +8,11 @@ Bu depo, tablosal astronomik veri setlerinin (Stellar Data) istatistiksel analiz
 
 ## Sistem Mimarisi ve Veri Hattı (Data Pipeline)
 
-* **Proje sadece bir analiz dosyası değil, aşağıdaki aşamalardan oluşan bir veri işleme hattıdır:
-* **Data Ingestion: Google Drive tabanlı dış kaynaklardan (CSV) dinamik veri çekimi.
-* **Preprocessing & Schema Validation: Pandas kullanılarak verinin tip kontrolü, eksik veri analizi ve tanımlayıcı istatistiklerin (std, mean, quartiles) çıkarılması.
-* **Scientific Visualization Layer: Matplotlib ve Seaborn kütüphaneleriyle katmanlı (layered) görselleştirme.
-* **Automated Export Engine: Üretilen çıktıların JavaScript Blob API kullanılarak birleştirilmesi ve kernel üzerinden asenkron olarak yerel diske aktarılması.
+* Proje sadece bir analiz dosyası değil, aşağıdaki aşamalardan oluşan bir veri işleme hattıdır:
+* Data Ingestion: Google Drive tabanlı dış kaynaklardan (CSV) dinamik veri çekimi.
+* Preprocessing & Schema Validation: Pandas kullanılarak verinin tip kontrolü, eksik veri analizi ve tanımlayıcı istatistiklerin (std, mean, quartiles) çıkarılması.
+* Scientific Visualization Layer: Matplotlib ve Seaborn kütüphaneleriyle katmanlı (layered) görselleştirme.
+* ** Automated Export Engine: Üretilen çıktıların JavaScript Blob API kullanılarak birleştirilmesi ve kernel üzerinden asenkron olarak yerel diske aktarılması.
 
 
 
